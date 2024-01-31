@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kh8407j/Downloads/GameAudioWeek1Demo/GameAudioWeek1Demo/Content/Audio/lightBuzzLooped.uasset",
+				"C:/Users/kh8407j/Downloads/GameAudioWeek1Demo/GameAudioWeek1Demo/Content/Objects_BPs/SciFi_Lamp_BP.uasset",
+				"C:/Users/kh8407j/Downloads/GameAudioWeek1Demo/GameAudioWeek1Demo/Content/Maps/SpaceShipDemo.umap",
+				"C:/Users/kh8407j/Downloads/GameAudioWeek1Demo/GameAudioWeek1Demo/Content/FPS_Character/BP_FPS_Character.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Maps/SpaceShipDemo.umap",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Assets/Characters/Arms/Arms_Animations/Arms_Aim_Walk.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/SpaceshipInterior/Maps/Demonstration.umap",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/FPS_Character/BP_FPS_Character.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/SpaceshipInterior/Meshes/SM_Scifi_Door_01_Frame.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Objects_BPs/SciFi_Lamp_BP.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Audio/lightBuzzLooped.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Audio/LampBuzzSoundAttenuation.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Audio/spaceshipAmbienceLooped.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Audio/gunshot.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Audio/trigger.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Audio/SpaceShipAmbienceAttenuation.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Objects_BPs/Health_BP.uasset",
+				"C:/Unreal Projects/GameAudioWeek1Demo/Content/Objects_BPs/Ammo_BP.uasset"
+			]
+		}
+	]
+}
