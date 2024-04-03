@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kh8407j/Downloads/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/Audio/GenerativeMusic.uasset",
+				"C:/Users/kh8407j/Downloads/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/Actors/MusicPlayer.uasset",
+				"C:/Users/kh8407j/Downloads/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kh8407j/Downloads/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/__ExternalActors__/Levels/Audio_Demonstration/2/GH/56WJAQMH030MYEJC5ZC9D0.uasset",
+				"C:/Users/kh8407j/Downloads/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/Models/Suzanne.uasset",
+				"C:/Users/kh8407j/Downloads/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/Materials/Suzanne.uasset",
 				"C:/Users/Semfh/Documents/GitHub/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/Semfh/Documents/GitHub/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
 				"C:/Users/Semfh/Documents/GitHub/GameAudio/Kirks_Task08_Files/AudioDemonstration/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
